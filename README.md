@@ -7,16 +7,17 @@ url: localhost:8080/process
 
 params example json:
 
-{
+	{
 
 	"addText" : "10",
-  
+
 	"resText" : "27",
-  
+
 	"startText" : "0",
-  
+
 	"endText" : "100"
-}
+
+	}
 
 
 ### 2) Firs lab on Spring with arrays
@@ -25,7 +26,7 @@ url: localhost:8080/processArray
 
 params example json:
 
-{
+	{
 
 	"addText" : ["8", "12", "14"],
   
@@ -34,7 +35,7 @@ params example json:
 	"startText" : ["0", "0", "0"],
   
 	"endText" : ["100", "10", "10"]
-}
+	}
 
 
 ### 3) Functional sort
@@ -43,7 +44,7 @@ url: localhost:8080/processSort
 
 params example json:
 
-[
+	[
 
 	"some string", 
   
@@ -54,4 +55,4 @@ params example json:
 	".first", 
   
 	"not second"
-]
+	]
