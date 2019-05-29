@@ -9,13 +9,13 @@ params example json:
 
 	{
 
-	"addText" : "10",
+		"addText" : "10",
 
-	"resText" : "27",
+		"resText" : "27",
 
-	"startText" : "0",
+		"startText" : "0",
 
-	"endText" : "100"
+		"endText" : "100"
 
 	}
 
@@ -28,13 +28,13 @@ params example json:
 
 	{
 
-	"addText" : ["8", "12", "14"],
+		"addText" : ["8", "12", "14"],
   
-	"resText" : ["27", "14", "49"],
+		"resText" : ["27", "14", "49"],
   
-	"startText" : ["0", "0", "0"],
+		"startText" : ["0", "0", "0"],
   
-	"endText" : ["100", "10", "10"]
+		"endText" : ["100", "10", "10"]
 	}
 
 
@@ -46,13 +46,13 @@ params example json:
 
 	[
 
-	"some string", 
+		"some string", 
   
-	"litle text", 
+		"litle text", 
   
-	"101010", 
+		"101010", 
   
-	".first", 
+		".first", 
   
-	"not second"
+		"not second"
 	]
